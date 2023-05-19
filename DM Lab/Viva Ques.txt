@@ -1,0 +1,33 @@
+.arff: An ARFF (Attribute-Relation File Format) file is an ASCII text file that describes a list of instances sharing a set of attributes.
+2 sections (header section (in this section, table and columns are defined, syntax of defining table is @relation tablename, syntax of defining columns is @attribute columnname and column’s datatype)
+and data section (in this section, we fill data in all the columns in row-wise manner, syntax is @data then data of 1st person, separated by commas. Similarly, data of 2nd person like first name, last name, uid, contact no. , date of birth etc, then 3rd persons details and so on))
+
+Attributes: Attributes are the describing characteristics or properties that define all items pertaining to a certain category applied to all cells of a column.
+
+WEKA: It is an open source software that provides tools for data preprocessing, implementation of several Machine Learning algorithms, and visualization tools
+so that you can develop machine learning techniques and apply them to real-world data mining problems.
+
+Data Analysis is the technique to collect, transform, and organize data to make future predictions, and make informed data-driven decisions.
+
+Association rule mining is a rule-based machine learning technique used to find frequent patterns in a data set.
+
+Apriori is an algorithm for frequent item set mining and association rule learning over relational databases.
+
+Frequent Pattern Growth Algorithm is the method of finding frequent patterns without candidate generation.
+It constructs an FP Tree rather than using the generate and test strategy of Apriori.
+
+A decision tree algorithm is a machine learning algorithm that uses a decision tree to make predictions.
+It follows a tree-like model of decisions and their possible consequences.
+
+Bayesian classification uses Bayes theorem to predict the occurrence of any event.
+
+K Means Clustering in R Programming is an Unsupervised Non-linear algorithm that cluster data based on similarity or similar groups.
+
+Cluster analysis or clustering is a technique to find subgroups of data points within a data set.
+
+Linear Regression: It is a commonly used type of predictive analysis. Linear regression analysis is used to predict the value of a variable based on the value of another variable.
+There are two types of linear regression :
+Simple Linear Regression: Simple linear regression is a model that describes the relationship between one dependent and one independent variable using a straight line.
+Multiple Linear Regression: Multiple linear regression is a regression model that estimates the relationship between a quantitative dependent variable and two or more independent variables using a straight line.
+
+Outlier: Data points far from the dataset’s other points are considered outliers.
